@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ranu gumbolo</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <nav>
+      <div class="layar-dalam">
+        <div class="logo">
+          <a style="font-family: cursive" class="btn btn-small btn-primary"
+            >danau ranu gumbolo wonorejo</a
+          >
+        </div>
+        <div class="menu">
+          <a href="#" class="tombol-menu">
+            <span class="garis"></span>
+            <span class="garis"></span>
+            <span class="garis"></span>
+          </a>
+          <ul>
+            <li><a href="#home">home</a></li>
+            <li><a href="#about">about</a></li>
+            <li><a href="#galery">galery</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="layar-penuh">
+      <header id="home">
+        <div class="overlay"></div>
+        <video autoplay muted loop>
+          <source src="img/vid ranu.mp4" type="video/mp4" />
+        </video>
+        <div class="intro">
+          <h3>welcome in ranu gumbolo lake</h3>
+        </div>
+      </header>
+      <main>
+        <section id="about">
+          <div class="layar-dalam">
+            <h3>about ranu gumbolo</h3>
+            <img src="img/about.jpg" width="400" />
+            <p>sejarah ranu gumbolo</p>
+            <p class="ringkasan">
+              ranu Gumbolo di Desa Wonorejo, Pagerwojo kerap disebut sebagai Ranu Kumbolonya
+              Tulungagung. Kemiripan lanskap dan pemandangan yang ditawarkan menjadikan Ranu Gumbolo
+              sebagai salah satu tempat favorit wisatawan lokal, Meski kerap disebut mirip dengan
+              Ranu Kumbolo di kawasan Gunung Semeru, Ranu Gumbolo tetap memiliki daya tarik
+              tersendiri yang membuatnya patut untuk kamu kunjungi.Sesampainya di Ranu Gumbolo, kamu
+              akan disambut pemandangan danau yang dikelilingi pohon pinus. Perpaduan ini
+              menciptakan pemandangan cantik yang akan memanjakan mata wisatawan. Tak hanya itu,
+              keberadaan Ranu Gumbolo di ketinggian 182 mdpl membuat kondisi udara sekitar amat
+              sejuk. Kamu tentu bisa memanfaatkan suasana ini untuk bersantai dan menenangkan diri.
+              Selain menikmati pemandangan, di bendungan ini kamu juga bisa melakukan berbagai
+              kegiatan outbond, memancing, hingga duduk santai. Tak hanya menjadi sektor pariwisata,
+              Waduk Wonorejo juga berfungsi sebagai pembangkit listrik dan pengairan. Dengan seluruh
+              fasilitas yang ditawarkan, tak ada salahnya jika kamu mampir ke Waduk Wonorejo saat
+              mengunjungi Ranu Gumbolo. Berbeda dari Ranu Kumbolo yang memiliki hutan alami, hutan
+              di Ranu Gumbolo justru merupakan hasil reboisasi. Awalnya, reboisasi dilakukan demi
+              mencegah longsor di kawasan Waduk Wonorejo. Namun, akhirnya diperluas hingga kawasan
+              Ranu Gumbolo. Proses reboisasi tersebut mulai dilakukan tahun 2001 dengan menanam
+              ribuan pohon pinus dan jati. Karena itulah, kini kamu bisa melihat deretan pohon pinus
+              sebagai pemandangan yang indah. Tak jarang, beberapa orang memanfaatkannya sebagai
+              lokasi foto pre-wedding.
+            </p>
+            <div class="konten-isi">
+              <h2>kegiatan yang dapat dilakukan di Ranu gumbolo</h2>
+              <p>
+                Tak hanya menikmati keindahan alam, kamu juga bisa melakukan berbagai aktivitas seru
+                lainnya di Ranu Gumbolo, kita dapat ,elakukan kegiataan seperti memancing, bermain
+                layang-layang, camping, berlibur dengan teman atau saudara, berfoto, melihat
+                keindahan alam di ranu gumbolo dll
+              </p>
+            </div>
+          </div>
+        </section>
+        <section id="galery">
+          <div class="layar-dalam suport">
+            <h3>Galery ranu gumbolo</h3>
+            <img src="img/camp 1.jpg" width="200" />
+            <img src="img/camp 2.jpg" width="200" />
+            <img src="img/camp 3.jpg" width="200" />
+            <img src="img/camp 4.jpg" width="200" />
+            <img src="img/camp 5.jpg" width="200" />
+            <img src="img/camp 6.jpg" width="200" />
+            <img src="img/camp 7.jpg" width="200" />
+            <img src="img/camp 8.jpg" width="200" />
+          </div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
